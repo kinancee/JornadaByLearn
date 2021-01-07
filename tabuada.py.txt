@@ -1,0 +1,4 @@
+for a in range(1,10):
+    print('tabuada de {}'.format(a))
+    for b in range(0,11):
+        print('{} x {} = {}'.format(a,b,a*b))
